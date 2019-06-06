@@ -105,7 +105,7 @@
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [Linux Documentation (中文版)](https://www.gitbook.com/book/tinylab/linux-doc/details)
 * [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://www.gitbook.com/book/tinylab/elinux/details)
-* [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process)
+* [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process) 已阅读
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 * [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
 * [操作系统思考](https://github.com/wizardforcel/think-os-zh)
