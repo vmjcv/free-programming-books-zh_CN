@@ -108,7 +108,7 @@
 * [理解Linux进程](https://github.com/tobegit3hub/understand_linux_process) 已阅读
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 * [SystemTap新手指南](https://spacewander.gitbooks.io/systemtapbeginnersguide_zh/content/index.html)
-* [操作系统思考](https://github.com/wizardforcel/think-os-zh)
+* [操作系统思考](https://github.com/wizardforcel/think-os-zh)  已阅读
 
 [返回目录](#目录)
 
