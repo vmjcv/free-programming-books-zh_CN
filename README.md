@@ -118,7 +118,7 @@
 [返回目录](#目录)
 
 ## 分布式系统
-* [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf)
+* [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf) 已阅读，但是没看懂，涉及到很多关于分布式数据库的内容，在看完分布式数据库后重新看下
 
 [返回目录](#目录)
 
